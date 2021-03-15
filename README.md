@@ -1,4 +1,4 @@
-# Artificial-Intelligence
+
 #Bilkent University CS 342 - Operating Systems course works. 
 
 #See course:http://www.cs.bilkent.edu.tr/~korpe/courses/cs342fall2020/
